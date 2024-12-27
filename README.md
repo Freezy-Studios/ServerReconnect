@@ -1,7 +1,5 @@
 # ServerReconnect Plugin
 
----
-
 ServerReconnect is a plugin for Velocity proxy servers that automatically reconnects players to a server if they are kicked due to the server being closed. It provides a smooth user experience by displaying a reconnect animation while attempting to reestablish the connection.
 
 ---
